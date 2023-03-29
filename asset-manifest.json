@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advance-redux/static/css/main.dca49637.css",
+    "main.js": "/advance-redux/static/js/main.fd08da2a.js",
+    "index.html": "/advance-redux/index.html",
+    "main.dca49637.css.map": "/advance-redux/static/css/main.dca49637.css.map",
+    "main.fd08da2a.js.map": "/advance-redux/static/js/main.fd08da2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dca49637.css",
+    "static/js/main.fd08da2a.js"
+  ]
+}
